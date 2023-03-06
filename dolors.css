@@ -1,0 +1,71 @@
+i{
+    font-size: 40px;
+    /* background-color: yellow; */
+    position: absolute;
+    margin-right: 20px;
+
+}
+.one{
+    font-size: 15px;
+}
+
+
+.saba{
+    background-image: url("dolor.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+h3{
+    color: yellow;
+}
+
+
+
+
+.two{
+    background-image: url("dolor2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+
+
+.three{
+    background-image: url("dolor3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.input{
+    width: 60%;
+    height: 30px;
+}
+.sam{
+    font-size: 15px;
+    margin-left: -20px;
+    margin-top: 7px;
+    color: black;
+}
+.sam1{
+    font-size: 20px;
+}
+.sam2{
+    font-size: 20px;
+}
+.sam3{
+    font-size: 20px;
+}
+    .three{
+        background-image: url("dolor3.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+    
+    }
+    
+/* .sam4{
+    font-size:20px;
+    margin-left: 20px;
+} */

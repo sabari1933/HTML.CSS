@@ -1,0 +1,25 @@
+div{background-color: aqua;
+height: 80vh;
+width: 100%;}
+h1{color: black; 
+font-style: italic;
+width: 10%;
+height: 10hv;
+ background-color: blue;
+margin: 0 auto;}
+.div1{background-color: rgb(162, 0, 255);
+height: 10vh;
+width: 60%;
+margin: 0 auto;}
+.div2{font-size:50px;background-color: brown;
+height: 25%;
+width: 100px;
+margin:0 auto;
+}
+p{color: blue; background-color: bisque;
+font-size: 20px;
+font-style:0 italic;
+margin: auto;}
+span{color:black;background-color:green;
+font-style: italic;
+font-size:25px ;}

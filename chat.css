@@ -1,0 +1,28 @@
+.head{
+    text-align:center;
+    background-color: blue;
+    color:white;
+    height:50px;   
+}
+.saba{
+    background-image: url("chat.jpg");
+    margin:20px 300px 50px 300px;
+}
+.sab{
+    padding:20px 20px;
+}
+.one{
+    background-color: grey;
+    border-radius: 25px 25px 0px 25px;
+    padding:10px;
+    color:white;
+    text-align: right;
+}
+.two{
+    background-color:brown ;
+    border-radius:25px 25px 25px 0px ;
+    padding:10px;
+    color:white;
+    text-align: left;
+}
+

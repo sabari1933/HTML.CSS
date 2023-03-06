@@ -1,0 +1,27 @@
+.saba{
+    height: 80vh;
+    width: 80%;
+    background-color: aqua;
+}
+.saba1{
+    height: 30vh;
+    width: 30%;
+    background-color: black;
+    position: sticky;
+    top: 30px;
+}
+.saba2{
+    height: 30vh;
+    width: 30%;
+    background-color: brown;
+}
+.saba3{
+    height: 30vh;
+    width: 30%;
+    background-color:blueviolet;
+}
+.saba4{
+    height: 30vh;
+    width: 30%;
+    background-color: blue;
+}

@@ -1,0 +1,16 @@
+h1{color: blue;}
+.para{
+    text-align:center;
+}
+.para1{text-align: left;}
+a{
+    text-decoration: line-through;
+}
+h2{
+    text-transform: capitalize;
+    text-shadow: 5px 4px 2px blue;
+}
+.para2{
+    text-transform: uppercase;
+    text-align: justify;
+}
